@@ -1,0 +1,129 @@
+{
+    "construction_company": {
+      "name": "Happy Builders Inc.",
+      "home_town": "Sunnyville"
+    },
+    "backstory": "In the sunny town of Sunnyville, Happy Builders Inc. was founded by a group of dedicated and cheerful construction workers. Together, they bring smiles to the faces of the townsfolk with their adorable characters and remarkable construction skills.",
+    "construction_workers": [
+      {
+        "firstname": "Bob",
+        "lastname": "Builder",
+        "pant_color": "blue",
+        "favorite_food": ["Spaghetti Carbonara", "Chicken Alfredo", "Lasagna", "Margherita Pizza"],
+        "favorite_tool": "hammer",
+        "pet": ["Sparky the Dog"],
+        "hobby": ["Building sandcastles", "Woodworking"]
+      },
+      {
+        "firstname": "Wendy",
+        "lastname": "Wheels",
+        "pant_color": "green",
+        "favorite_food": ["Veggie Stir Fry", "Quinoa Salad", "Avocado Toast"],
+        "favorite_tool": "wrench",
+        "pet": ["Fluffy the Cat"],
+        "hobby": ["Gardening", "Yoga", "Photography"]
+      },
+      {
+        "firstname": "Molly",
+        "lastname": "Measure",
+        "pant_color": "pink",
+        "favorite_food": ["Chocolate Chip Pancakes", "French Toast", "Eggs Benedict"],
+        "favorite_tool": "tape measure",
+        "pet": ["Whiskers the Bunny"],
+        "hobby": ["Painting", "Reading", "Traveling"]
+      },
+      {
+        "firstname": "Jack",
+        "lastname": "Hammer",
+        "pant_color": "yellow",
+        "favorite_food": ["Bacon Cheeseburger", "Loaded Nachos", "Buffalo Wings", "Root Beer Float"],
+        "favorite_tool": "jackhammer",
+        "pet": ["Polly the Parrot"],
+        "hobby": ["Playing music", "Hiking"]
+      },
+      {
+        "firstname": "Sam",
+        "lastname": "Sawyer",
+        "pant_color": "orange",
+        "favorite_food": ["Turkey Club Sandwich", "Caesar Salad", "Fruit Smoothie", "Chocolate Milkshake"],
+        "favorite_tool": "handsaw",
+        "pet": ["Nibbles the Hamster", "Snuggles the Hamster"],
+        "hobby": ["Reading", "Cooking", "Video Games"]
+      },
+      {
+        "firstname": "Sally",
+        "lastname": "Scaffold",
+        "pant_color": "purple",
+        "favorite_food": ["Caprese Salad", "Bruschetta", "Pasta Primavera"],
+        "favorite_tool": "scaffold",
+        "pet": ["Bubbles the Turtle"],
+        "hobby": ["Singing", "Drawing", "Swimming"]
+      },
+      {
+        "firstname": "Tim",
+        "lastname": "Trowel",
+        "pant_color": "brown",
+        "favorite_food": ["Steak Frites", "Shrimp Scampi", "Crème Brûlée", "Mojito"],
+        "favorite_tool": "trowel",
+        "pet": ["Scooter the Squirrel", "Nutty the Squirrel"],
+        "hobby": ["Cooking", "Hiking", "Chess", "Running"]
+      },
+      {
+        "firstname": "Danny",
+        "lastname": "Drill",
+        "pant_color": "red",
+        "favorite_food": ["Chicago Deep Dish Pizza", "BBQ Ribs", "Pulled Pork Sandwich", "Root Beer"],
+        "favorite_tool": "drill",
+        "pet": ["Speedy the Mouse", "Whiskers the Mouse"],
+        "hobby": ["Fishing", "Camping"]
+      },
+      {
+        "firstname": "Lucy",
+        "lastname": "Ladder",
+        "pant_color": "teal",
+        "favorite_food": ["Fish Tacos", "Mango Salsa", "Churros"],
+        "favorite_tool": "ladder",
+        "pet": ["Splash the Goldfish"],
+        "hobby": ["Playing sports", "Surfing", "Painting", "Yoga"]
+      },
+      {
+        "firstname": "Larry",
+        "lastname": "Leveler",
+        "pant_color": "gray",
+        "favorite_food": ["Cookies and Cream Ice Cream", "Chocolate Chip Cookies", "Brownie Sundae"],
+        "favorite_tool": "level",
+        "pet": ["Buddy the Hamster", "Nugget the Hamster", "Bolt the Hamster"],
+        "hobby": ["Dancing", "Sculpting", "Knitting", "Baking"]
+      }
+    ],
+    "past_projects": [
+      {
+        "name": "Sunnyville Playground",
+        "description": "The Happy Builders constructed a colorful playground in Sunnyville for the joyful kids of the town, including the adventurous character Sammy the Squirrel."
+      },
+      {
+        "name": "Blossom's Bakery Expansion",
+        "description": "Expanding Blossom's Bakery to accommodate the growing demand, the Happy Builders built an extension, much to the delight of the talented baker, Blossom."
+      },
+      {
+        "name": "Riverfront Picnic Area",
+        "description": "Creating a scenic picnic area by the river, the Happy Builders provided a perfect spot for family outings, admired by the lovely character Lily the Ladybug."
+      },
+      {
+        "name": "Starlight Theatre Renovation",
+        "description": "Renovating the historic Starlight Theatre, the Happy Builders revived the magic of theater for the entire town, much to the delight of the charismatic actor, Oscar the Owl."
+      },
+      {
+        "name": "Cozy Corner Bookstore",
+        "description": "Constructing the Cozy Corner Bookstore, the Happy Builders provided a haven for book lovers, cherished by the wise character, Professor Paws the Cat."
+      },
+      {
+        "name": "Sunnyville Community Garden",
+        "description": "Establishing the Sunnyville Community Garden, the Happy Builders brought together neighbors to cultivate a green oasis, appreciated by the diligent gardener, Daisy the Rabbit."
+      },
+      {
+        "name": "Sunshine Daycare Center",
+        "description": "Building the Sunshine Daycare Center, the Happy Builders created a nurturing environment for Sunnyville's little ones, adored by the playful character, Sunny the Sunflower."
+      }
+    ]
+  }
